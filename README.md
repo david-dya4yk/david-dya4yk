@@ -3,6 +3,10 @@
 🎯 **Frontend Developer** | Building modern web apps with React, TypeScript & Next.js  
 💡 Passionate about creating fast, accessible and user-friendly interfaces  
 
+## 📄 Resume  
+
+[👉 Download my Resume (PDF)](./David_Diachuk_Frontend_Developer.pdf)
+
 ---
 
 ## 🚀 About Me  
@@ -10,22 +14,6 @@
 - 💻 Focused on **frontend development** with strong knowledge of **React ecosystem**  
 - 📱 Experienced in building **responsive & PWA applications**  
 - 📈 I love turning ideas into **scalable products**  
-
----
-
-## 🏢 Work Experience  
-
-### Entree (Dec 2023 – Jun 2025)  
-**SaaS platform for restaurants and cafes** — [Entree Demo](https://entree-site.vercel.app)  
-
-- Built full UI and logic for **order creation & tracking**  
-- Developed **responsive design** for mobile/tablet with WCAG accessibility  
-- Added new features: **takeaway orders, table booking, waiter reviews**  
-
-**Achievements:**  
-- ⚡ App loading speed improved by **35%**  
-- ♿ Accessibility score increased to **90+ (Lighthouse)**  
-- 📦 Production build size reduced by **25%**  
 
 ---
 
@@ -55,7 +43,6 @@
 
 - 📧 Email: [daviddya4yk@gmail.com](mailto:daviddya4yk@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/david-diachuk](http://www.linkedin.com/in/david-diachuk)  
-- 💻 GitHub: [github.com/david-dya4yk](https://github.com/david-dya4yk)  
 - ✈️ Telegram: [@david_diachuk](https://t.me/david_diachuk)  
 
 ---
