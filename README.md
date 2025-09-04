@@ -5,7 +5,7 @@
 
 ## 📄 Resume  
 
-[👉 Download my Resume (PDF)](./David_Diachuk_Frontend_Developer.pdf)
+[👉 Download my Resume (PDF)](https://drive.google.com/file/d/1NiIJu1G61m_6OLPcMwAlWSFWkbEGw5aS/view?usp=drive_link)
 
 ---
 
